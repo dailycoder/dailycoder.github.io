@@ -1,12 +1,14 @@
 # Site settings
-title: StartupBusters - Busting fake startups since 1857
-email: hello@startupbusters.org
+title: logX - Self study mathematics for Computer Science and fun
+email: hello@logx.in
 description: > # this means to ignore newlines until "baseurl:"
- With few statups that create value and others that geninune people are working so hard, comes a few chutiyas who try to game the system. For them, startup success is getting funding, wasting the money and then moving on with this being a glorious step for their future. We are startupbusters, we bust these chutiyas.
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://startupbusters.org" # the base hostname & protocol for your site
-twitter_username: startupbusters
-github_username:  dailycoder
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
 
 # Build settings
 markdown: kramdown
